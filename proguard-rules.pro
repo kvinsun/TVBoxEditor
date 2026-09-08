@@ -1,0 +1,2 @@
+-keep class com.tvbox.editor.model.** { *; }
+-keep class com.google.gson.** { *; }
